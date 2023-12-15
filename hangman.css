@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 239, 45, 1) 100%
+  );
+}
+header {
+  color: #fff;
+  text-align: center;
+  font-size: 10rem;
+  font-family: sans-serif;
+  width: 100%;
+  padding: 30px;
+}

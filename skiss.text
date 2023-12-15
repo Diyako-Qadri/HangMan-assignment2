@@ -1,0 +1,8 @@
+berätta vad splet går ut på 
+
+We want to create a hang man game
+there will be questions about muscle grupp that player can answer by guessing the correct exercise 
+    -only one letter at the time 
+    -answers will be secret and showen by "_"
+    -they have 5 lives 
+    -their lives decrase by -1 each time they guessing wrong and they will lose if lives = 0
