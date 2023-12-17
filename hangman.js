@@ -16,7 +16,7 @@ let exercise;
 let lives = 5;
 let score = 0;
 let secret;
-let playAgain = `Do you want to play again?`;
+let playAgain = `Do you want to play again? \n(Yes or No)`;
 let guessedLetters;
 
 let gameInit = () => {
